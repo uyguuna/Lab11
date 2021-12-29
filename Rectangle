@@ -1,6 +1,6 @@
-public class Recangle {
+public class Rectangle {
     private int a, b;
-    public Recangle(int a, int b) {
+    public Rectangle(int a, int b) {
         this.a = a;
         this.b = b;}
     public void print() {
